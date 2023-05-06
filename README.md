@@ -5,7 +5,10 @@ https://bhaskartripathi-pdfchatter.hf.space
 
 ## To run locally:
 ```shell
-# On python 3.8 environment,
+git clone https://github.com/star-bits/pdfGPT.git
+cd pdfGPT
+
+# On a python 3.8 environment
 pip install -r requirements.txt
 
 python app.py
